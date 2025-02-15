@@ -1,4 +1,4 @@
-//1876. Substrings of Size Three with Distinct Characters - leetcode (easy) (acc : )
+//1876. Substrings of Size Three with Distinct Characters - leetcode (easy) (acc : 74%)
 //https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/?envType=problem-list-v2&envId=sliding-window
 /*
 A string is good if there are no repeated characters.
